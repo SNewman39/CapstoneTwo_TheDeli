@@ -1,0 +1,5 @@
+Order Summary:
+Sandwich: white bread, Toppings: meat, Sauces: mayo (Toasted)
+Drink: medium lemonade
+Chips: Sour Cream
+Total Price: $8.5
